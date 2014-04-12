@@ -13,7 +13,7 @@ info: action=report
 debug: action=ignore
 debugger_log: -
 
-vga_update_interval: 300000
+#vga_update_interval: 300000
 keyboard_serial_delay: 250
 keyboard_paste_delay: 100000
 mouse: enabled=0
